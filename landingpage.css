@@ -1,0 +1,346 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.naya-gadi-logo {
+    height: 107px;
+    width: 90px;
+    margin-left: 107px;
+    
+}
+
+#navItem1 {
+font-family: "roboto";
+color:#0C0C0C;
+margin-right: 95px;
+}
+
+#navItem2 {
+    font-family: "roboto";
+    color: #0C0C0C;
+    margin-right: 148px;
+    
+    }
+
+.items-right {
+    margin-left: auto;
+}
+
+.section-1-heading-1 {
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: 600;
+    color: #000000;
+    padding-top: 90px;
+
+}
+.section-1-heading-2 {
+    font-family: "roboto";
+    font-size: 70px;
+    font-weight: 600;
+    color: #000000;
+    
+}
+.section-1-description {
+    color: #8F9699;
+    font-size: 22px;
+    padding-top: 17px;
+}
+
+.span1 {
+    color: #7CCE37;
+}
+
+.custom-button {
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 19px;
+    height: 55px;
+    width: 215px;
+    border-width:0px;
+    border-radius: 8px;
+    background-color: #0C0C0C;
+    padding: 10px;
+    margin-top: 17px;
+
+}
+
+.section-1-image {
+   position: absolute;
+    height: auto;
+    width: 54%;
+    left: 45vw;
+    top: 8vh;
+}
+
+.detailed-section {
+    width: 110px;
+    margin-top: 60px;
+}
+
+.detailed-section-images {
+    height: 80px;
+    width: 80px;
+}
+.detailed-section-content {
+    font-family: "roboto";
+    font-size: 16px;
+    color: #8F9699;
+}
+
+.section-2 {
+    margin-top: 200px;
+}
+
+.section-2-card1 {
+    width: 700px;
+    margin-right: 20px;
+}
+
+.section-2-card2 {
+    width: 600px;
+    margin-right: 20px;
+}
+
+.section-2-heading {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.section-2-description {
+    font-family: "roboto";
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.section-2-image {
+    position: absolute;
+    height: auto;
+    width: 43%;
+    left: 49vw;
+    top: 120vh;
+}
+
+.span2 {
+    color:#E9169C;
+}
+
+.section-3 {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.section-3-heading {
+    font-size: 54px;
+    font-family: "roboto";
+    font-weight: bold;
+
+}
+
+.section-3-card {
+    background-color: white;
+    width: 370px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: green;
+    border-width: 1px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.section-3-card-image {
+    height: 340px;
+    width: 340px;
+    padding: 20px;
+    padding-top: 40px;
+}
+
+.button-2 {
+    background-color: black;
+    font-family: "roboto";
+    font-size: 16px;
+    color: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-top: 30px;
+}
+
+.section-3-button {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    left: 64vw;
+    top: 235vh;
+}
+
+.section-4-top {
+width: 1400px;
+}
+
+.section-4 {
+    text-align: center;
+}
+
+.section-4-heading {
+    font-family: "roboto";
+    color:#373737;
+    font-size: 55px;
+    font-weight: bold;
+}
+.spam3 {
+    color:#E9169C;
+}
+
+.section-4-description {
+    font-family: "roboto";
+    font-size: 21px;
+    color:#515B60;
+}
+
+.section-4-card {
+    height: 430px;
+    width: 340px;
+    background-color:green;
+    padding: 15px;
+    border-radius: 12px;
+    margin-right: 50px;
+}
+.section-4-card-image {
+    height: 310px;
+    width: 310px;
+}
+.sectio-4-card-title {
+    color: #515B60;
+}
+.section-4-card-title2 {
+    color: #3F7115;
+    margin-bottom: 10px;
+}
+
+.section-4-side-button {
+    position: absolute;
+    height: auto;
+    width: auto;
+    left: 90vw;
+    top: 354vh;
+}
+
+
+body {
+    font-family: "roboto", sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.form1 {
+    text-align: center;
+    color: #E9109A;
+}
+.form2 {
+    text-align: center;
+}
+
+form {
+    background-color: #ffffff;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+    width: 600px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+    display: block;
+    width: 140px;
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.getinto-touch-section {
+    background-color: #B0FF6C;
+    width: 330px;
+    height: 375px;
+    margin-right: 40px;
+    
+}
+
+
+.section-3-card-2 {
+    width: 1500px;
+    margin-top: 150px;
+}
+
+.button-3 {
+    background-color: #d61590;
+    height: 40px;
+    width: 220px;
+    color: white;
+    border-radius: 7px;
+    border-width: 0px;
+    font-family: "roboto";
+    font-size: 14px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.bottom-section-heading {
+    margin-top: 60px;
+    font-size: 25px;
+    font-family: "roboto";
+}
+
+.bottom-section-card {
+    height: 100px;
+    width: 130px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: green;
+    margin: 30px;
+}
+
+.bottom-section-card-image {
+    height: 120px;
+    width: 120px;
+}
+
+.bottom-section {
+    text-align: center;
+}
+
+.bottom-section-description {
+    font-size: 20px;
+    font-family: "roboto";
+    margin-top: 30px;
+}
